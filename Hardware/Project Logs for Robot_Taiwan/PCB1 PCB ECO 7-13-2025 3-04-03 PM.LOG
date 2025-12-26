@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net*_11 Pin=R16-2
+Removed Pin From Net: NetName=Net*_11 Pin=R18-2
+Removed Pin From Net: NetName=Net*_11 Pin=U7-3
+Removed Pin From Net: NetName=Net*_11 Pin=U8-3
+Added Pin To Net: NetName=Net*_10 Pin=R16-2
+Added Pin To Net: NetName=Net*_9 Pin=R18-2
+Added Pin To Net: NetName=Net*_10 Pin=U7-3
+Added Pin To Net: NetName=Net*_9 Pin=U8-3
+Added Member To Class: ClassName=Sheet1 Member=Component U3 QRE1113GR

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Net*_6 Pin=IC1-15
+Removed Pin From Net: NetName=Net*_26 Pin=IC1-16
+Removed Pin From Net: NetName=Net*_27 Pin=IC1-17
+Removed Pin From Net: NetName=Net*_29 Pin=IC1-21
+Removed Pin From Net: NetName=Net*_28 Pin=IC1-22
+Removed Pin From Net: NetName=Net*_7 Pin=IC1-23
+Removed Pin From Net: NetName=Net*_25 Pin=SW1-2
+Removed Pin From Net: NetName=Net*_24 Pin=SW2-2
+Removed Pin From Net: NetName=Net*_23 Pin=SW3-2
+Added Pin To Net: NetName=Net*_28 Pin=IC1-15
+Added Pin To Net: NetName=Net*_24 Pin=IC1-16
+Added Pin To Net: NetName=Net*_25 Pin=IC1-17
+Added Pin To Net: NetName=Net*_27 Pin=IC1-21
+Added Pin To Net: NetName=Net*_26 Pin=IC1-22
+Added Pin To Net: NetName=Net*_29 Pin=IC1-23
+Added Pin To Net: NetName=Net*_37 Pin=*-37
+Added Pin To Net: NetName=Net*_37 Pin=SW3-2
+Added Net: Name=Net*_37
+Added Pin To Net: NetName=Net*_38 Pin=*-38
+Added Pin To Net: NetName=Net*_38 Pin=SW2-2
+Added Net: Name=Net*_38
+Added Pin To Net: NetName=Net*_39 Pin=*-39
+Added Pin To Net: NetName=Net*_39 Pin=SW1-2
+Added Net: Name=Net*_39
+Added Member To Class: ClassName=Sheet1 Member=Component A4 RPR-220

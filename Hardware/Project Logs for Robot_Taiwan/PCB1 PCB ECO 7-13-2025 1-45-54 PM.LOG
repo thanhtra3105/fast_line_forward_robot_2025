@@ -1,0 +1,64 @@
+Added Component: Designator=LED RGB(LED RGB 3528)
+Add component (AddParameter): Name = "Color"; Value = "Red & Green & Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150141M173100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Christin Otto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "June 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "150141M173100"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=R14-1
+Added Pin To Net: NetName=Net*_8 Pin=R14-2
+Added Pin To Net: NetName=Net*_8 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=Net*_30 Pin=*-30
+Added Net: Name=Net*_30
+Added Pin To Net: NetName=Net*_31 Pin=*-31
+Added Pin To Net: NetName=Net*_31 Pin=R6-1
+Added Net: Name=Net*_31
+Added Pin To Net: NetName=Net*_32 Pin=*-32
+Added Pin To Net: NetName=Net*_32 Pin=R8-1
+Added Net: Name=Net*_32
+Added Pin To Net: NetName=NetLED RGB_2 Pin=LED RGB-2
+Added Pin To Net: NetName=NetLED RGB_2 Pin=R13-2
+Added Net: Name=NetLED RGB_2
+Added Pin To Net: NetName=NetLED RGB_3 Pin=LED RGB-3
+Added Pin To Net: NetName=NetLED RGB_3 Pin=R8-2
+Added Net: Name=NetLED RGB_3
+Added Pin To Net: NetName=NetLED RGB_4 Pin=LED RGB-4
+Added Pin To Net: NetName=NetLED RGB_4 Pin=R6-2
+Added Net: Name=NetLED RGB_4
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED RGB 150141M173100
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res
+Added Member To Class: ClassName=Sheet1 Member=Component R13 Res
+Added Member To Class: ClassName=Sheet1 Member=Component R14 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R15 33k

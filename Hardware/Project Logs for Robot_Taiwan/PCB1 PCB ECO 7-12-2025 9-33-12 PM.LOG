@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net*_7 Pin=MOTOR DRIVER-15
+Removed Pin From Net: NetName=Net*_25 Pin=MOTOR DRIVER-16
+Removed Pin From Net: NetName=Net*_24 Pin=MOTOR DRIVER-17
+Removed Pin From Net: NetName=Net*_27 Pin=MOTOR DRIVER-22
+Removed Pin From Net: NetName=Net*_6 Pin=MOTOR DRIVER-23
+Change Component Designator: OldDesignator= NewDesignator=*
+Added Pin To Net: NetName=Net*_29 Pin=MOTOR DRIVER-15
+Added Pin To Net: NetName=Net*_28 Pin=MOTOR DRIVER-16
+Added Pin To Net: NetName=Net*_27 Pin=MOTOR DRIVER-17
+Added Pin To Net: NetName=Net*_25 Pin=MOTOR DRIVER-22
+Added Pin To Net: NetName=Net*_24 Pin=MOTOR DRIVER-23

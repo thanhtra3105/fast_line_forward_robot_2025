@@ -1,0 +1,28 @@
+Added Component: Designator=MOTOR DRIVER(SSOP24)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB6612FNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_1 Pin=MOTOR DRIVER-1
+Added Pin To Net: NetName=NetH1_1 Pin=MOTOR DRIVER-2
+Added Pin To Net: NetName=GND Pin=MOTOR DRIVER-3
+Added Pin To Net: NetName=NetH1_2 Pin=MOTOR DRIVER-5
+Added Pin To Net: NetName=NetH2_2 Pin=MOTOR DRIVER-7
+Added Pin To Net: NetName=GND Pin=MOTOR DRIVER-9
+Added Pin To Net: NetName=NetH2_1 Pin=MOTOR DRIVER-11
+Added Pin To Net: NetName=NetH2_1 Pin=MOTOR DRIVER-12
+Added Pin To Net: NetName=NetC3_1 Pin=MOTOR DRIVER-13
+Added Pin To Net: NetName=NetC3_1 Pin=MOTOR DRIVER-14
+Added Pin To Net: NetName=Net*_7 Pin=MOTOR DRIVER-15
+Added Pin To Net: NetName=Net*_24 Pin=MOTOR DRIVER-16
+Added Pin To Net: NetName=Net*_25 Pin=MOTOR DRIVER-17
+Added Pin To Net: NetName=GND Pin=MOTOR DRIVER-18
+Added Pin To Net: NetName=Net*_23 Pin=MOTOR DRIVER-19
+Added Pin To Net: NetName=Net*_2 Pin=MOTOR DRIVER-20
+Added Pin To Net: NetName=Net*_26 Pin=MOTOR DRIVER-21
+Added Pin To Net: NetName=Net*_27 Pin=MOTOR DRIVER-22
+Added Pin To Net: NetName=Net*_6 Pin=MOTOR DRIVER-23
+Added Pin To Net: NetName=NetC3_1 Pin=MOTOR DRIVER-24
+Added Member To Class: ClassName=Sheet1 Member=Component MOTOR DRIVER TB6612FNG

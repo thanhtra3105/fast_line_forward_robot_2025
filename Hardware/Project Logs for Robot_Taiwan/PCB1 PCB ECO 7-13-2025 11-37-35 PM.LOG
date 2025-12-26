@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=*-0
+Removed Pin From Net: NetName=Net*_9 Pin= -3
+Removed Pin From Net: NetName=Net*_14 Pin=R3-2
+Removed Pin From Net: NetName=Net*_13 Pin=R5-2
+Removed Pin From Net: NetName=Net*_12 Pin=R9-2
+Removed Pin From Net: NetName=Net*_11 Pin=R11-2
+Removed Pin From Net: NetName=Net*_8 Pin=R14-2
+Removed Pin From Net: NetName=Net*_8 Pin=R15-1
+Removed Pin From Net: NetName=Net*_10 Pin=R16-2
+Removed Pin From Net: NetName=Net*_9 Pin=R18-2
+Removed Pin From Net: NetName=Net*_14 Pin=U3-3
+Removed Pin From Net: NetName=Net*_13 Pin=U4-3
+Removed Pin From Net: NetName=Net*_12 Pin=U5-3
+Removed Pin From Net: NetName=Net*_11 Pin=U6-3
+Removed Pin From Net: NetName=Net*_10 Pin=U7-3
+Change Component Comment : Designator=* Old Comment=STM32F103 New Comment=STM32H503
+Change Designator: Invalid Designator
+Added Component: Designator=J1(TE_282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_8 Pin= -3
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=Net*_5 Pin=MOTOR DRIVER-23
+Added Pin To Net: NetName=Net*_14 Pin=R1-2
+Added Pin To Net: NetName=Net*_13 Pin=R3-2
+Added Pin To Net: NetName=Net*_12 Pin=R5-2
+Added Pin To Net: NetName=Net*_11 Pin=R9-2
+Added Pin To Net: NetName=Net*_10 Pin=R11-2
+Added Pin To Net: NetName=Net*_7 Pin=R14-2
+Added Pin To Net: NetName=Net*_7 Pin=R15-1
+Added Pin To Net: NetName=Net*_9 Pin=R16-2
+Added Pin To Net: NetName=Net*_8 Pin=R18-2
+Added Pin To Net: NetName=Net*_14 Pin=U2-3
+Added Pin To Net: NetName=Net*_13 Pin=U3-3
+Added Pin To Net: NetName=Net*_12 Pin=U4-3
+Added Pin To Net: NetName=Net*_11 Pin=U5-3
+Added Pin To Net: NetName=Net*_10 Pin=U6-3
+Added Pin To Net: NetName=Net*_9 Pin=U7-3
+Added Member To Class: ClassName=Sheet1 Member=Component J1 VIN
+Add Class Member: Failed to add class member : Component  QRE1113GR

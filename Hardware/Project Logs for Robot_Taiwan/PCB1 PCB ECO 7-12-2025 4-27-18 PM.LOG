@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net*_27 Pin=IC1-21
+Removed Pin From Net: NetName=Net*_26 Pin=IC1-22
+Added Pin To Net: NetName=Net*_26 Pin=IC1-21
+Added Pin To Net: NetName=Net*_27 Pin=IC1-22
+Added Member To Class: ClassName=Sheet1 Member=Component * STM32F103
+Added Member To Class: ClassName=Sheet1 Member=Component A2 RPR-220
+Added Member To Class: ClassName=Sheet1 Member=Component A4 RPR-220
+Added Member To Class: ClassName=Sheet1 Member=Component A5 RPR-220
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Header1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10k
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 SW

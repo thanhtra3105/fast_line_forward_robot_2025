@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=+5 Pin=R8-1
+Removed Pin From Net: NetName=NetL4_1 Pin=R8-2
+Removed Member From Class: ClassName=Sheet1 Member=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R8
+Added Component: Designator=H?(Header 2P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Cong"; VariantName = "[No Variations]"
+Added Component: Designator=H?(Header 2P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Cong"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SSOP24)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB6612FNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW1-SMD)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW1-SMD)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW1-SMD)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_6 Pin=IC?-15
+Added Pin To Net: NetName=Net*_7 Pin=IC?-23
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L2-3
+Add Pin To Net: Unknown Pin: Pin L2-4
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L3-3
+Add Pin To Net: Unknown Pin: Pin L3-4
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L4-3
+Add Pin To Net: Unknown Pin: Pin L4-4
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin L5-3
+Add Pin To Net: Unknown Pin: Pin L5-4
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L6-3
+Add Pin To Net: Unknown Pin: Pin L6-4
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L7-3
+Add Pin To Net: Unknown Pin: Pin L7-4
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=NetL4_1 Pin=R8-2
+Added Pin To Net: NetName=+5 Pin=SW?-1
+Added Pin To Net: NetName=+5 Pin=SW?-1
+Added Pin To Net: NetName=+5 Pin=SW?-1
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_23 Pin=SW?-2
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=SW?-2
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=SW?-2
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_26 Pin=IC?-16
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Pin To Net: NetName=Net*_27 Pin=IC?-17
+Added Net: Name=Net*_27
+Added Pin To Net: NetName=Net*_28 Pin=*-28
+Added Pin To Net: NetName=Net*_28 Pin=IC?-22
+Added Net: Name=Net*_28
+Added Pin To Net: NetName=Net*_29 Pin=*-29
+Added Pin To Net: NetName=Net*_29 Pin=IC?-21
+Added Net: Name=Net*_29
+Added Pin To Net: NetName=NetH?_1 Pin=H?-1
+Added Pin To Net: NetName=NetH?_1 Pin=IC?-11
+Added Net: Name=NetH?_1
+Add Net: Net with name "NetH?_1" already exists
+Added Pin To Net: NetName=NetH?_2 Pin=H?-2
+Added Pin To Net: NetName=NetH?_2 Pin=IC?-7
+Added Net: Name=NetH?_2
+Add Net: Net with name "NetH?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component H? Header 2P
+Added Member To Class: ClassName=Sheet1 Member=Component H? Header 2P 
+Added Member To Class: ClassName=Sheet1 Member=Component IC? TB6612FNG
+Add Class Member: Failed to add class member : Component L1 KTIR0711S
+Add Class Member: Failed to add class member : Component L2 KTIR0711S
+Add Class Member: Failed to add class member : Component L3 KTIR0711S
+Add Class Member: Failed to add class member : Component L4 KTIR0711S
+Add Class Member: Failed to add class member : Component L5 KTIR0711S
+Add Class Member: Failed to add class member : Component L6 KTIR0711S
+Add Class Member: Failed to add class member : Component L7 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SW
+Added Member To Class: ClassName=Sheet1 Member=Component U? LM1117-3.3V

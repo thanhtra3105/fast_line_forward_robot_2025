@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=+5 Pin=22pf-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Unknown Pin: Pin U?-130
+Removed Member From Class: ClassName=Sheet1 Member=22pf
+Removed Member From Class: ClassName=Sheet1 Member=R17
+Removed Member From Class: ClassName=Sheet1 Member=R19
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=X1
+Change Component Comment : Designator=R1 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R3 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R5 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R7 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R9 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R11 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R13 Old Comment=Res New Comment=20k
+Change Component Comment : Designator=R2 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R4 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R6 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R8 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R10 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R12 Old Comment=Res New Comment=220
+Change Component Comment : Designator=R14 Old Comment=Res New Comment=220
+Added Component: Designator=*(STM32F103)
+Added Component: Designator=10u(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=33u(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=*-0
+Added Pin To Net: NetName=+5 Pin=10u-1
+Added Pin To Net: NetName=+5 Pin=10u-2
+Added Pin To Net: NetName=+5 Pin=33u-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L2-4
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L3-4
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L4-4
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin L5-4
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L6-4
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L7-4
+Added Pin To Net: NetName=Net33u_2 Pin=33u-2
+Added Pin To Net: NetName=Net33u_2 Pin=*-20
+Added Pin To Net: NetName=Net33u_2 Pin=U?-2
+Added Net: Name=Net33u_2
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=R13-2
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=R11-2
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=R9-2
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=R7-1
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=R5-2
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=R3-1
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=R1-2
+Added Net: Name=Net*_15
+Added Member To Class: ClassName=Sheet1 Member=Component * STM32F103
+Added Member To Class: ClassName=Sheet1 Member=Component 10u Capacitor Ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component 33u Capacitor Ceramic
+Add Class Member: Failed to add class member : Component L1 KTIR0711S
+Add Class Member: Failed to add class member : Component L2 KTIR0711S
+Add Class Member: Failed to add class member : Component L3 KTIR0711S
+Add Class Member: Failed to add class member : Component L4 KTIR0711S
+Add Class Member: Failed to add class member : Component L5 KTIR0711S
+Add Class Member: Failed to add class member : Component L6 KTIR0711S
+Add Class Member: Failed to add class member : Component L7 KTIR0711S

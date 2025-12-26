@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Net*_23 Pin=MOTOR DRIVER-19
+Added Pin To Net: NetName=Net*_24 Pin=MOTOR DRIVER-19

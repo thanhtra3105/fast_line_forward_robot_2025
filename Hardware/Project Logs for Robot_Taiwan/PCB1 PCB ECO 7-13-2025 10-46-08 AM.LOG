@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Added Component: Designator=BATTERY(PCBComponent_1)
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*_20
+Added Member To Class: ClassName=Sheet1 Member=Component BATTERY LIPO 3S

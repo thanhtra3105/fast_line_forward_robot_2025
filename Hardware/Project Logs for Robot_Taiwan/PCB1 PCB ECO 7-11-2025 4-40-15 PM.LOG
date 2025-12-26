@@ -1,0 +1,58 @@
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=Net*_9 Pin=L?-3
+Added Pin To Net: NetName=Net*_10 Pin=L?-3
+Added Pin To Net: NetName=Net*_11 Pin=L?-3
+Added Pin To Net: NetName=Net*_12 Pin=L?-3
+Added Pin To Net: NetName=Net*_13 Pin=L?-3
+Added Pin To Net: NetName=Net*_14 Pin=L?-3
+Added Pin To Net: NetName=Net*_15 Pin=L?-3
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=+5 Pin=L?-4
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R7-1
+Added Net: Name=NetL?_1
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L? KTIR0711S

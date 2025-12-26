@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=  NewDesignator=U8
+Added Component: Designator=J1(TE_282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=Net_1 New Net Name=NetR19_1
+Added Member To Class: ClassName=Sheet1 Member=Component J1 VIN
+Added Member To Class: ClassName=Sheet1 Member=Component U8 QRE1113GR

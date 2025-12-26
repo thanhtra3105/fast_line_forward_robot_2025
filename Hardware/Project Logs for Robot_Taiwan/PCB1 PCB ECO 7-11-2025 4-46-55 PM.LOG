@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Added Component: Designator=L1(KTIR0711S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=Net*_15 Pin=L1-3
+Added Pin To Net: NetName=+5 Pin=L1-4
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R2-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R4-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R7-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=R10-1
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R12-1
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=R14-1
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=R16-1
+Added Net: Name=NetL7_1
+Added Member To Class: ClassName=Sheet1 Member=Component L1 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L2 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L3 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L4 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L5 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L6 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component L7 KTIR0711S

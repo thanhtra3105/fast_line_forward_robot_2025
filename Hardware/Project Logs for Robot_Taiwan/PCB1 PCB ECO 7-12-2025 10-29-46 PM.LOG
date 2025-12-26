@@ -1,0 +1,4 @@
+Added Component: Designator=ML(GA12_N20)
+Added Component: Designator=MR(GA12_N20)
+Added Member To Class: ClassName=Sheet1 Member=Component ML MotorR
+Added Member To Class: ClassName=Sheet1 Member=Component MR MotorL

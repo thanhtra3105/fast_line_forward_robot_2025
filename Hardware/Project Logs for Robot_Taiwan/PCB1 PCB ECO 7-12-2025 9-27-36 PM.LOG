@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net*_24 Pin=MOTOR DRIVER-16
+Removed Pin From Net: NetName=Net*_25 Pin=MOTOR DRIVER-17
+Added Pin To Net: NetName=Net*_25 Pin=MOTOR DRIVER-16
+Added Pin To Net: NetName=Net*_24 Pin=MOTOR DRIVER-17

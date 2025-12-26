@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=*
+Change Component Designator: OldDesignator=1 NewDesignator=10u
+Change Component Designator: OldDesignator=2 NewDesignator=33u
+Change Component Designator: OldDesignator=A1 NewDesignator=A5
+Change Component Designator: OldDesignator=A2 NewDesignator=A1
+Change Component Designator: OldDesignator=A3 NewDesignator=A4
+Change Component Designator: OldDesignator=A4 NewDesignator=A2
+Change Component Designator: OldDesignator=A5 NewDesignator=A3
+Change Component Designator: OldDesignator=H1 NewDesignator=H2
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R10
+Change Component Designator: OldDesignator=R5 NewDesignator=R12
+Change Component Designator: OldDesignator=R6 NewDesignator=R1
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R2
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW1
+Added Pin To Net: NetName=Net33u_2 Pin=*-2
+Added Member To Class: ClassName=Sheet1 Member=Component A4 RPR-220
+Added Member To Class: ClassName=Sheet1 Member=Component A5 RPR-220
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Header2
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 100
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R12 100
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 SW

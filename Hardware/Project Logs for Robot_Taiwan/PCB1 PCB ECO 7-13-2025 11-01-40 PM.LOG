@@ -1,0 +1,4 @@
+Change Designator: Invalid Designator
+Change Component Description : Designator=SW Old Description=Slide Switch, EG Series, SPDT, Non-Shorting, ON-ON, 200mA DC, 30VDC, PC Pin New Description=Slide Switch, EG Series, SPDT, Non-Shorting, ON-ON, 200mA DC, 30VDC, PC Pin | E-Switch EG1218
+Change Net Name : Old Net Name=NetR19_1 New Net Name=Net_1
+Add Class Member: Failed to add class member : Component  QRE1113GR

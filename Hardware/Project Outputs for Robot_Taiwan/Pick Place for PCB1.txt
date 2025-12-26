@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+E:\THANHTRA\ROBOT_TAIWAN\Robot_Taiwan\Project Outputs for Robot_Taiwan\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/07/25
+Time:       09:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator     Comment       Layer       Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                                                                     
+U8             QRE1113GR     BottomLayer SOIC180P460X187-4N 14.9970      20.0090      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U2             QRE1113GR     BottomLayer SOIC180P460X187-4N 14.9860      80.0100      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U5             QRE1113GR     BottomLayer SOIC180P460X187-4N 4.0000       50.0000      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U3             QRE1113GR     BottomLayer SOIC180P460X187-4N 9.5250       69.9770      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U6             QRE1113GR     BottomLayer SOIC180P460X187-4N 5.9580       39.9480      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U4             QRE1113GR     BottomLayer SOIC180P460X187-4N 5.9690       59.9440      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+U7             QRE1113GR     BottomLayer SOIC180P460X187-4N 9.9060       29.9720      0        "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"                                        
+R19            100           TopLayer    RES-SMD-0805       14.9860      18.7960      180      Resistor                                                                                        
+R18            10k           TopLayer    RES-SMD-0805       14.9860      21.3360      180      Resistor                                                                                        
+R17            100           TopLayer    RES-SMD-0805       9.9060       28.7020      180      Resistor                                                                                        
+R16            10k           TopLayer    RES-SMD-0805       9.9060       31.3690      180      Resistor                                                                                        
+R15            0805-33k      BottomLayer RES-SMD-0805       103.8861     42.5450      180      Resistor                                                                                        
+R14            0805-100k     BottomLayer RES-SMD-0805       103.8860     44.9580      0        Resistor                                                                                        
+R13            0805-220      TopLayer    RES-SMD-0805       130.0479     71.2470      0        Resistor                                                                                        
+R8             0805-220      TopLayer    RES-SMD-0805       130.0479     73.5330      0        Resistor                                                                                        
+R6             0805-220      TopLayer    RES-SMD-0805       130.0479     75.8190      0        Resistor                                                                                        
+"LED RGB"      150141M173100 TopLayer    LED_RGB_3528       130.4302     82.4230      90       "SMD Full-Color Top LED, WL-SFTW, Red & Green & Blue"                                           
+BATTERY        "LIPO 3S"     TopLayer    BATTERY            -25.4000     -25.4000     0        ""                                                                                              
+MR             MotorL        TopLayer    GA12_N20           119.0280     7.6835       180      ""                                                                                              
+ML             MotorR        TopLayer    GA12_N20           118.8660     92.2655      0        ""                                                                                              
+SW             EG1218        TopLayer    SW_EG1218          95.4640      3.5560       0        "Slide Switch, EG Series, SPDT, Non-Shorting, ON-ON, 200mA DC, 30VDC, PC Pin | E-Switch EG1218" 
+"MOTOR DRIVER" TB6612FNG     TopLayer    SSOP24             117.6020     54.3560      270      "- Motor Driver Power MOSFET Parallel 24-SSOP"                                                  
+C6             1000u         TopLayer    CAP-ALU-SMD-G      95.3135      13.2080      0        "Polarized Capacitor (Axial)"                                                                   
+C7             104           BottomLayer 0805               96.1390      45.5930      0        "Capacitor (Semiconductor SIM Model)"                                                           
+C5             1000u         TopLayer    CAP-ALU-SMD-G      94.9365      94.0000      0        "Polarized Capacitor (Axial)"                                                                   
+C8             104           BottomLayer 0805               96.3930      60.5790      0        "Capacitor (Semiconductor SIM Model)"                                                           
+LM7805         ""            BottomLayer TO-263             91.7560      53.0860      180      "Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A D2PAK"                                
+C4             10u           TopLayer    C1206              86.7410      92.3290      90       ""                                                                                              
+C3             0.1           TopLayer    0805               83.1850      90.9320      270      ""                                                                                              
+C2             10u           BottomLayer C1206              95.2500      64.6430      180      ""                                                                                              
+C1             33u           BottomLayer C1206              95.2500      66.9290      180      ""                                                                                              
+*              STM32H503     TopLayer    STM32F103          117.4750     48.7680      90       ""                                                                                              
+R12            100           TopLayer    RES-SMD-0805       6.2231       38.7350      180      Resistor                                                                                        
+R11            10k           TopLayer    RES-SMD-0805       6.0961       41.4020      180      Resistor                                                                                        
+R10            100           TopLayer    RES-SMD-0805       4.0640       48.6410      180      Resistor                                                                                        
+R9             10k           TopLayer    RES-SMD-0805       4.0640       51.4350      180      Resistor                                                                                        
+R7             100           TopLayer    RES-SMD-0805       6.0961       58.6740      180      Resistor                                                                                        
+R5             10k           TopLayer    RES-SMD-0805       6.0960       61.3410      180      Resistor                                                                                        
+R4             100           TopLayer    RES-SMD-0805       9.3980       68.8340      180      Resistor                                                                                        
+R3             10k           TopLayer    RES-SMD-0805       9.3980       71.2470      180      Resistor                                                                                        
+R2             100           TopLayer    RES-SMD-0805       14.8590      78.6130      180      Resistor                                                                                        
+R1             10k           TopLayer    RES-SMD-0805       14.8591      81.1530      180      Resistor                                                                                        
+SW1            SW            TopLayer    SW1-SMD            132.9690     54.0000      270      "Switch button 2 pin"                                                                           
+SW3            SW            TopLayer    SW1-SMD            133.0000     26.0000      270      "Switch button 2 pin"                                                                           
+SW2            SW            TopLayer    SW1-SMD            132.9690     40.0050      270      "Switch button 2 pin"                                                                           
+H1             Header1       TopLayer    XH2.54M-2          106.0450     84.2010      180      C?m                                                                                             
+H2             Header2       TopLayer    XH2.54M-2          106.2700     16.0020      0        C?m                                                                                             
+U1             LM1117-3.3V   BottomLayer SOT223             86.7410      66.9290      270      "800mA Low-Dropout Linear Regulator"                                                            

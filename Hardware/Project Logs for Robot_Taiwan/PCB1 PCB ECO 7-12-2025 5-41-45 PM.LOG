@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=C8-2
+Added Pin To Net: NetName=NetC3_1 Pin=J1-1
+Added Pin To Net: NetName=NetC3_1 Pin=LM7805-1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 33u

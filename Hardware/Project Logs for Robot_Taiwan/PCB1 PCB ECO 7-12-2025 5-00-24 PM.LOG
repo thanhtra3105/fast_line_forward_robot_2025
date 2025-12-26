@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=10u-1
+Removed Pin From Net: NetName=+5 Pin=10u-2
+Removed Pin From Net: NetName=GND Pin=33u-1
+Removed Pin From Net: NetName=Net33u_2 Pin=33u-2
+Removed Member From Class: ClassName=Sheet1 Member=10u
+Removed Member From Class: ClassName=Sheet1 Member=33u
+Change Component Comment : Designator=IC1 Old Comment=TB6612FNG New Comment=
+Change Component Designator: OldDesignator=IC1 NewDesignator=TB6612FNG
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(0805)
+Add component (AddParameter): Name = "Bottom"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Right"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C1206)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Net33u_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetH1_1 Pin=TB6612FNG-2
+Added Pin To Net: NetName=GND Pin=TB6612FNG-3
+Added Pin To Net: NetName=GND Pin=TB6612FNG-9
+Added Pin To Net: NetName=NetH2_1 Pin=TB6612FNG-12
+Added Pin To Net: NetName=GND Pin=TB6612FNG-18
+Added Pin To Net: NetName=Net*_23 Pin=TB6612FNG-19
+Added Pin To Net: NetName=Net33u_2 Pin=TB6612FNG-20
+Change Net Name : Old Net Name=Net33u_2 New Net Name=Net*_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-2
+Added Pin To Net: NetName=NetC3_1 Pin=TB6612FNG-13
+Added Pin To Net: NetName=NetC3_1 Pin=TB6612FNG-14
+Added Pin To Net: NetName=NetC3_1 Pin=TB6612FNG-24
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 33u
+Added Member To Class: ClassName=Sheet1 Member=Component C2 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C3 0.1
+Added Member To Class: ClassName=Sheet1 Member=Component C4 10u

@@ -1,0 +1,51 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R3 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R4 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R5 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R7 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R9 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R10 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R11 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R12 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R13 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R14 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R15 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R16 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L2-3
+Add Pin To Net: Unknown Pin: Pin L2-4
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L3-3
+Add Pin To Net: Unknown Pin: Pin L3-4
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L4-3
+Add Pin To Net: Unknown Pin: Pin L4-4
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin L5-3
+Add Pin To Net: Unknown Pin: Pin L5-4
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L6-3
+Add Pin To Net: Unknown Pin: Pin L6-4
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L7-3
+Add Pin To Net: Unknown Pin: Pin L7-4
+Add Class Member: Failed to add class member : Component L1 KTIR0711S
+Add Class Member: Failed to add class member : Component L2 KTIR0711S
+Add Class Member: Failed to add class member : Component L3 KTIR0711S
+Add Class Member: Failed to add class member : Component L4 KTIR0711S
+Add Class Member: Failed to add class member : Component L5 KTIR0711S
+Add Class Member: Failed to add class member : Component L6 KTIR0711S
+Add Class Member: Failed to add class member : Component L7 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component R6 ERJP06J221V
+Added Member To Class: ClassName=Sheet1 Member=Component R8 ERJP06J221V

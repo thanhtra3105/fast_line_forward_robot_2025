@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetH1_1 Pin=IC1-1
+Removed Pin From Net: NetName=NetH1_2 Pin=IC1-5
+Removed Pin From Net: NetName=NetH2_2 Pin=IC1-7
+Removed Pin From Net: NetName=NetH2_1 Pin=IC1-11
+Removed Pin From Net: NetName=Net*_6 Pin=IC1-15
+Removed Pin From Net: NetName=Net*_26 Pin=IC1-16
+Removed Pin From Net: NetName=Net*_27 Pin=IC1-17
+Removed Pin From Net: NetName=Net*_29 Pin=IC1-21
+Removed Pin From Net: NetName=Net*_28 Pin=IC1-22
+Removed Pin From Net: NetName=Net*_7 Pin=IC1-23
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Added Component: Designator=IC?(SSOP24)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB6612FNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB6612FNG/Toshiba/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJP06J221V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJP06J221V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJP06J221V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJP06J221V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_1 Pin=IC?-1
+Added Pin To Net: NetName=NetH1_2 Pin=IC?-5
+Added Pin To Net: NetName=NetH2_2 Pin=IC?-7
+Added Pin To Net: NetName=NetH2_1 Pin=IC?-11
+Added Pin To Net: NetName=Net*_6 Pin=IC?-15
+Added Pin To Net: NetName=Net*_26 Pin=IC?-16
+Added Pin To Net: NetName=Net*_27 Pin=IC?-17
+Added Pin To Net: NetName=Net*_29 Pin=IC?-21
+Added Pin To Net: NetName=Net*_28 Pin=IC?-22
+Added Pin To Net: NetName=Net*_7 Pin=IC?-23
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L2-3
+Add Pin To Net: Unknown Pin: Pin L2-4
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L3-3
+Add Pin To Net: Unknown Pin: Pin L3-4
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L4-3
+Add Pin To Net: Unknown Pin: Pin L4-4
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin L5-3
+Add Pin To Net: Unknown Pin: Pin L5-4
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin L6-3
+Add Pin To Net: Unknown Pin: Pin L6-4
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Add Pin To Net: Unknown Pin: Pin L7-3
+Add Pin To Net: Unknown Pin: Pin L7-4
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Header2
+Added Member To Class: ClassName=Sheet1 Member=Component IC? TB6612FNG
+Add Class Member: Failed to add class member : Component L1 KTIR0711S
+Add Class Member: Failed to add class member : Component L2 KTIR0711S
+Add Class Member: Failed to add class member : Component L3 KTIR0711S
+Add Class Member: Failed to add class member : Component L4 KTIR0711S
+Add Class Member: Failed to add class member : Component L5 KTIR0711S
+Add Class Member: Failed to add class member : Component L6 KTIR0711S
+Add Class Member: Failed to add class member : Component L7 KTIR0711S
+Added Member To Class: ClassName=Sheet1 Member=Component R? ERJP06J221V
+Added Member To Class: ClassName=Sheet1 Member=Component R? ERJP06J221V
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
